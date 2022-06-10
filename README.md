@@ -1,2 +1,4 @@
-# TeriousSelfbot
-discord (owo bot) selfbot
+# spoooky selfbot
+
+
+# RELEASE SOON
